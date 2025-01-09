@@ -1,6 +1,6 @@
-# flutterapi
+# NameFinder Mobile Application
 
-A new Flutter project.
+Merupakan sebuah aplikasi mobile contact berbasis flutter yang dapat memudahkan anda dalam mengelola informasi contact orang yang kenal.
 
 ## Getting Started
 
