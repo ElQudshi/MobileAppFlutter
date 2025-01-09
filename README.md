@@ -2,15 +2,12 @@
 
 Merupakan sebuah aplikasi mobile contact berbasis flutter yang dapat memudahkan anda dalam mengelola informasi contact orang yang kenal.
 
-## Getting Started
+# Introduction
+NameFinder adalah aplikasi mobile  yang dirancang untuk memudahkan Anda mengelola dan menemukan informasi kontak dengan cepat dan efisien. Dengan antarmuka yang ramah pengguna dan fitur canggih, NameFinder adalah solusi sempurna untuk mengatur kontak Anda dengan lebih baik.
 
-This project is a starting point for a Flutter application.
+Beberapa fitur yang ada di NameFinder:
+- Pengelolaan Kontak yang Mudah
+- Pencarian Cepat dan Akurat
+- Halaman Detail Kontak
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
